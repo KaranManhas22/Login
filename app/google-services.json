@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721849007344",
+    "project_id": "login-c6ec6",
+    "storage_bucket": "login-c6ec6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721849007344:android:d8d8cd9462cb77b396d635",
+        "android_client_info": {
+          "package_name": "com.karan.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9vpHNS_cz6glD-J_NsmuCnI40bq4xjzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
